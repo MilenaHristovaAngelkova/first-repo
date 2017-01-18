@@ -1,1 +1,3 @@
 Resolving changes.
+
+Adding new text in the branch.
